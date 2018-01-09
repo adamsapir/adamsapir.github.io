@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2D9900;
+	font-size: 20px
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+li {
+	font-family: Arial Black, sansserif
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;  // or display: inline;
+}
+
+a:hover {
+    color: #0f7287;
+}
+
